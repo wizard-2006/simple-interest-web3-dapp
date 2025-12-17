@@ -34,17 +34,17 @@ A full-stack Web3 application that demonstrates blockchain integration by calcul
 
 ### 🏠 Home Page
 <p align="center">
-  <img src="simple-interest-web3-dapp/screenshots/home_page.png" alt="Home Page" width="700"/>
+  <img src="screenshots/home_page.png" alt="Home Page" width="700"/>
 </p>
 
 ### 👨‍💼 Manager Dashboard
 <p align="center">
-  <img src="simple-interest-web3-dapp/screenshots/manager_page.png" alt="Manager Dashboard" width="700"/>
+  <img src="screenshots/manager_page.png" alt="Manager Dashboard" width="700"/>
 </p>
 
 ### 👤 User Dashboard
 <p align="center">
-  <img src="simple-interest-web3-dapp/screenshots/user.png" alt="User Dashboard" width="700"/>
+  <img src="screenshots/user.png" alt="User Dashboard" width="700"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@ A full-stack Web3 application that demonstrates blockchain integration by calcul
 ## 🏗️ Project Structure
 
 <p align="center">
-  <img src="simple-interest-web3-dapp/screenshots/project_structure.png" alt="Project Structure" width="700"/>
+  <img src="screenshots/project_structure.png" alt="Project Structure" width="700"/>
 </p>
 ```
 
