@@ -1,0 +1,5 @@
+node_modules/
+simple-dapp/node_modules/
+simple-dapp/.next/
+.env
+.env.local
