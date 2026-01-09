@@ -2,11 +2,13 @@
 
 pragma solidity ^0.8.31;
 
-contract SimpleInterestCalculation{
+import "./Owner.sol";
+
+contract SimpleInterestCalculation is Owner{
     
     uint256 public R; // interest rate (100=1%)
 
-    function updateR(uint256 interest_rate) public{
+    function updateR(uint256 interest_rate) public isOwner{
         R = interest_rate;
     }
 
